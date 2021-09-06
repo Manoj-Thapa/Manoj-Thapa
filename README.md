@@ -1,5 +1,5 @@
 
-<h1 align="center">&lt;%= Manoj Kumar Thapa %&gt;</h1>
+<h1 align="center">&lt;%= 'manoj kumar thapa'.toUpperCase(); %&gt;</h1>
 <h3 align="center">I'm a 4th year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
 
 
