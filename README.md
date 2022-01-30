@@ -1,6 +1,6 @@
 
-<h1 align="center">&lt;%= 'manoj kumar thapa'.toUpperCase(); %&gt;</h1>
-<h3 align="center">I'm a 4th year Computer Science Student in Dr. Ambedkar Institute of Technology. </h3>
+<h1 align="center">&lt; Software Developer /&gt;</h1>
+<h3 align="center">I have completed Computer Science and Engineering from Dr. Ambedkar Institute of Technology, Bangalore. </h3>
 
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
