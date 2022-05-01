@@ -27,7 +27,7 @@
   
 - <h4> 👯 I’m looking to collaborate on React projects. </h4>
 
-- <h4> 💬 Ask me about Web developement, JavaScript, Core Java. </h4> 
+- <h4> 💬 Ask me about Web Development, JavaScript, Core Java. </h4> 
 
 - <h4> 📫 How to reach me : thapam807@gmail.com </h4>
 
