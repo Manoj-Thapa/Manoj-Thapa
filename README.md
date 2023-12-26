@@ -3,7 +3,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a> I'm Manoj Kumar Thapa 👨‍💻
 </h1>
-<h4 align ="center">I am a Software Developer :) </h4>
+<h4 align ="center">I am a Software Engineer :) </h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/manoj-kumar-thapa-7595a5168" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
