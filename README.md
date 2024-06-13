@@ -21,13 +21,13 @@
 
 ## 🎯 About Me:
 
-- <h4> 🔭 I’m currently working on React based project. </h4>
+- <h4> 🔭 I’m currently working on React and Java(Spring Boot) based project. </h4>
   
 - <h4> 🌱 I’m currently learning Java and improving my Data Structure and Algorithm. </h4>
   
-- <h4> 👯 I’m looking to collaborate on React projects. </h4>
+- <h4> 👯 I’m looking to collaborate on React and Java(Spring Boot) projects. </h4>
 
-- <h4> 💬 Ask me about Web Development, JavaScript, Core Java. </h4> 
+- <h4> 💬 Ask me about Web Development, JavaScript, Java, Spring Boot. </h4> 
 
 - <h4> 📫 How to reach me : thapam807@gmail.com </h4>
 
